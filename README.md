@@ -1,3 +1,7 @@
+# NAME : VISWAJITH LALITHRAM R.V
+# REG.NO : 212224240187
+
+
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 
 # AIM:
@@ -54,7 +58,7 @@ int main() {
 ### OUTPUT
 
 
-![Alt text](forkc.png)
+![Alt text](FORKC.png)
 
 
 
@@ -109,8 +113,7 @@ int main() {
 
 
 
-![Alt text](fork.o.png)
-
+![Alt text](FORKO.png)
 
 
 
